@@ -126,3 +126,14 @@ body{
     font-size: 4vw;
     color: rgba(255, 255, 255, 0.49);
 }
+#page3{
+    height:100vh;
+    width:100vw;
+    background-color: #0b48ed;
+    position: relative;
+}
+#page3>canvas{
+    max-height: 100vh;
+    max-width:100vw;
+    position:relative;
+}
